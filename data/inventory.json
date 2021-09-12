@@ -1,0 +1,24 @@
+{
+  "inventory": [
+    {
+      "name": "leg",
+      "stock": "32",
+      "art_id": "1"
+    },
+    {
+      "name": "screw",
+      "stock": "57",
+      "art_id": "2"
+    },
+    {
+      "name": "seat",
+      "stock": "5",
+      "art_id": "3"
+    },
+    {
+      "name": "table top",
+      "stock": "3",
+      "art_id": "4"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+.header0{
+    text-align: center;
+    font-size: 50;
+    font-weight: 300;
+}
+
+.my-container{
+    /*border-radius: 5px;*/
+    background-color: #f9f9f9;
+    margin: 5px;
+    padding: 15px;
+/*    position: relative;*/
+    box-shadow: 2px 2px 2px lightgrey;
+}
